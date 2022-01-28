@@ -7,7 +7,7 @@ I'm currently living in the UK, and in full time education at 6th from age 17. m
 Skills: Python / HTML / CSS (ALL CURRENTLY LEARNING)
 
 - 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning Python / HTML / CSS / JS 
+- 🌱 I’m currently learning Python / HTML / CSS / JS
 - 📫 How to reach me: Discord: Harvey1G#3510 
 - ⚡ Fun fact: I love video games and hate school 
 
