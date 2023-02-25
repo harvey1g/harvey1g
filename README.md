@@ -9,7 +9,7 @@ Skills: Python / HTML / CSS (ALL CURRENTLY LEARNING)
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Python / HTML / CSS / JS
 - 📫 How to reach me: Discord: Harvey1G#3510 
-- ⚡ Fun fact: I love video games and hate school 
+- ⚡ Fun fact: I love video games
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/harvey1g)  
